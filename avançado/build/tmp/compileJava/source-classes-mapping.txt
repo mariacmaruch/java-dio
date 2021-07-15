@@ -1,0 +1,2 @@
+java10/InferencialExemplo.java
+ java10.InferencialExemplo
